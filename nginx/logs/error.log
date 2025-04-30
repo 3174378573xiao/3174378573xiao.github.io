@@ -1,0 +1,4 @@
+2025/04/30 23:21:26 [emerg] 29652#24544: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2025/04/30 23:21:52 [emerg] 29468#10564: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2025/04/30 23:22:55 [emerg] 3516#18228: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2025/04/30 23:25:07 [error] 4460#22244: *1 CreateFile() "C:\Users\86131\Desktop\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8888", referrer: "http://localhost:8888/"
